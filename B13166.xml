@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for restraint of disorders in souldiers, prested, for his Majesties service.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13166</idno><idno type="EEBO-CITATION">99892685</idno>
+  <idno type="VID">188204</idno>
+  <idno type="EEBO-PROQUEST">2240936712</idno>
+  
+            <idno type="STC">STC 9137</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[50]</idno>
+            <idno type="STC">ESTC S123861</idno>
+            <idno type="PROQUEST">ocm99892685</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892685e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188204)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for restraint of disorders in souldiers, prested, for his Majesties service.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank);   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majesty: and by the assignes of John Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1638 [i.e. 1639]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: ... VVhitehall, the two and twentieth day of March, in the fourteenth year of his Majesties reign.</note>
+                  <note>Imprint from colophon; dates are according to Lady Day dating.</note>
+                  <note>Arms 24; Steele notation: such therefore 2) or and.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Soldiers --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Military law --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188204:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>❧ A Proclamation for restraint of disorders in Souldiers, prested, and to be prested for His MAJESTIES Service.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings most Excellent Majesty, for prevention of all such</hi> spoils, damages and losses, as His loving Subjects may suffer by the violence and disorders of Souldiers which are or shall be prested for His Service in their passage thorow the severall Coun<g ref="char:EOLhyphen"/>ties towards the Parts and Places they shall be assigned: And out of His Princely care to secure His loving Subjects both in their persons and goods, against all such offences or fears, hath therefore thought fit, by the advise of His Privie Councell, to give solemn warning, and publish His Royall Commandment therein, to the end all pretence of disorder in the said Souldiers may be taken away.</p>
+            <p>And first His Majesty doth straitly charge and command all Captains, Lieutenants, Corporals, Conductors, and all other Officers, who have, or shall have any charge or com<g ref="char:EOLhyphen"/>mand of conducting any of the said Souldiers so appointed, out of the severall Counties of this Realm, that they do not only see the Souldiers of their severall Bands and Charges respectively duly paid their conduct Moneyes, and provided for of fit necessaries in their pas<g ref="char:EOLhyphen"/>sage, but do also carefully lead and conduct them from place to place whither they are to go, keeping alwayes with their Companies, and suffering none of them upon any pretence to wander or straggle from the rest.</p>
+            <p>Secondly, That no person or persons whatsoever, after he or they, hath, have, or shall receive his or their Prest money, do presume to absent or hide himselfe, when he shall be cal<g ref="char:EOLhyphen"/>led to go with his Company; nor being in company, shall wander or straggle from his or their Colours, or from the Captain, Lieutenant, Corporall, Conductor, or other Officer, to whom the conducting of them shall be assigned, but that they all behave themselves qui<g ref="char:EOLhyphen"/>etly and orderly, as becomes good Subjects, without offering injury or violence in their pas<g ref="char:EOLhyphen"/>sage to any others, either in their Persons, Families, Goods or Chattels, or fall into any out-rage or disorder amongst themselves. And if any of the said Souldiers shall (notwith<g ref="char:EOLhyphen"/>standing this publike warning, and their Captains or Conductors care and restraint) break out and commit any out-rage, take or spoil any mans House or Goods, in the Towns or Fields as they passe, straggle from their Companies, or otherwise outragiously behave themselves, that then every such Souldier so offending, be by vertue of this His Majesties Proclamation, forthwith committed to the Constable of the place next adjoyning, and by him in safe and sure manner conducted to the Gaol of the County, there to remain with<g ref="char:EOLhyphen"/>out Bail or Mainprize, untill he shall be proceeded against by the strictest course of Law which his fact shall deserve, for an example to others to avoid the like offence.</p>
+            <p>And for the better execution of this His Majesties just and necessary Commandment, His Majesty straitly chargeth and Commandeth all Lieutenants, Deputy-Lieutenants, Iustices of Peace, Mayors, Sheriffs, Bayliffs, Constables, Head-boroughs, &amp; other Officers, and all other His Majesties good &amp; loving Subjects, to take care to prevent &amp; represse all such disor<g ref="char:EOLhyphen"/>ders as aforesaid, and to be aiding and assisting to the said Captain &amp; Captains, or other Con<g ref="char:EOLhyphen"/>ductor or Conductors of Souldiers respectively; and to such Constable and Constables, as shall have the charge of conducting any such disorderly Souldiers to the Gaol respectively in the due execution of this His Majesties Command concerning the Premisses; as they ten<g ref="char:EOLhyphen"/>der their duty and allegiance to His Majesty, and the peace and good of their Countrey, and will answer the contrary at their uttermost pefils.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at His Majesties Court at VVhitehall, </hi>
+                  <date>
+                     <hi>the two and twentieth day of March, in the fourteenth year of his Majesties reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most excellent Majesty: And by the Assignes of JOHN BILL. 1638.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
